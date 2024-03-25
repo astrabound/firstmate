@@ -1,0 +1,4 @@
+SEP_DASH = "-" * 64
+SEP_EQUALS = "=" * 64
+
+DEFAULT_MENU_TITLE = "Menu"
